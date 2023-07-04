@@ -8,7 +8,6 @@ public class Printing {
         System.out.print("Simon"+"\n");
         System.out.println("You are the one");
         System.out.println("Waweru\n");
-        String tryPrint = "It is done";
-        return tryPrint;
+        return "It is done";
     }
 }
